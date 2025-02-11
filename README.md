@@ -40,11 +40,9 @@ GSON (JSON Parsing)
 
 
 ![image](https://github.com/user-attachments/assets/125790e3-724a-400f-a148-9c514800470b)
-
 ![image](https://github.com/user-attachments/assets/e3767332-6a6c-4522-b3a6-c9ee6de2d25a)
 
 ![image](https://github.com/user-attachments/assets/c7486d92-5f74-4a68-96b9-9efe59c0fa0a)
-
 ![image](https://github.com/user-attachments/assets/d264b614-dd53-45f1-91c2-78f26fdcae43)
 
 
