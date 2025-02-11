@@ -2,6 +2,8 @@
 
 A simple Android app that fetches and displays random dog images using the Dog CEO API. The app maintains a cache of the last 20 generated images, ensuring they persist even after closing the app.
 
+
+
 📌 Features
 
 ✅ Fetches and displays random dog images
@@ -9,6 +11,8 @@ A simple Android app that fetches and displays random dog images using the Dog C
 ✅ Persists images across app restarts using Jetpack DataStore
 ✅ Displays recent images in a LazyRow layout
 ✅ Simple and clean UI using Jetpack Compose
+
+
 
 
 🏗️ Tech Stack
@@ -30,9 +34,22 @@ Jetpack DataStore (Persistent Storage)
 GSON (JSON Parsing)
 
 
+
+
 📸 Screenshots
 
 🚀 Coming Soon!
+![image](https://github.com/user-attachments/assets/125790e3-724a-400f-a148-9c514800470b)
+![image](https://github.com/user-attachments/assets/e3767332-6a6c-4522-b3a6-c9ee6de2d25a)
+![image](https://github.com/user-attachments/assets/c7486d92-5f74-4a68-96b9-9efe59c0fa0a)
+![image](https://github.com/user-attachments/assets/d264b614-dd53-45f1-91c2-78f26fdcae43)
+
+
+
+
+
+
+
 
 🚀 Installation & Setup
 
@@ -45,6 +62,10 @@ GSON (JSON Parsing)
 3️⃣ Sync Gradle and build the project
 
 4️⃣ Run the app on an emulator or a physical device
+
+
+
+
 
 🔧 How It Works
 
